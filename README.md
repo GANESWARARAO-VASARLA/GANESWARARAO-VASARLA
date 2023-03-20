@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERNSTACK DEVELOPER**
 
-- 📫 How to reach me **g955034946@gmaiil.com**
+- 📫 How to reach me **g955034946@gmail.com**
 
 - 📄 Know about my experiences [ganesh4me.ccbp.tech,ganes4.ccbp.tech,https://ganeshyoutell.netlify.app,https://ganeshealthcaretips.netlify.app/,](ganesh4me.ccbp.tech,ganes4.ccbp.tech,https://ganeshyoutell.netlify.app,https://ganeshealthcaretips.netlify.app/,)
 
