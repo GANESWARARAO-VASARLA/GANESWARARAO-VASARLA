@@ -15,15 +15,15 @@
 
 - 📫 How to reach me **g955034946@gmail.com**
 
-- 📄 Know about my experiences [ganesh4me.ccbp.tech,ganes4.ccbp.tech,https://ganeshyoutell.netlify.app,https://ganeshealthcaretips.netlify.app/,](ganesh4me.ccbp.tech,ganes4.ccbp.tech,https://ganeshyoutell.netlify.app,https://ganeshealthcaretips.netlify.app/,)
+- 📄 Know about my experiences [ganesh4me.ccbp.tech, ganes4.ccbp.tech, https://ganeshyoutell.netlify.app, https://ganeshealthcaretips.netlify.app/,](ganesh4me.ccbp.tech, ganes4.ccbp.tech, https://ganeshyoutell.netlify.app, https://ganeshealthcaretips.netlify.app/,)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ganeshvasarla44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshvasarla44" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ganeswararao vasarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganeswararao vasarla" height="30" width="40" /></a>
-<a href="https://fb.com/ganesh vasarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganesh vasarla" height="30" width="40" /></a>
-<a href="https://instagram.com/ganesh_vasarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_vasarla" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ganesh" height="30" width="40" /></a>
+<a href="https://twitter.com/ganeshvasarla44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshvasarla44" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/ganeswararao vasarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganeswararao vasarla" height="40" width="50" /></a>
+<a href="https://fb.com/ganesh vasarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganesh vasarla" height="40" width="50" /></a>
+<a href="https://instagram.com/ganesh_vasarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_vasarla" height="40" width="50" /></a>
+<a href="https://www.youtube.com/c/ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ganesh" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
