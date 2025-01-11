@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ganeshvasarla44" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshvasarla44?logo=twitter&style=for-the-badge" alt="ganeshvasarla44" /></a> </p>
 
-- 🔭 I’m currently working on **MOVIESAPP**
+- 🔭 I’m currently working on **Freelancing**
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning **Node**
 
 - 💬 Ask me about **MERNSTACK DEVELOPER**
 
