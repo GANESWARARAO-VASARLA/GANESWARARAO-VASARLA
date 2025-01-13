@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **g955034946@gmail.com**
 
-- 📄 Know about my experiences [](ganesh4me.ccbp.tech, ganes4.ccbp.tech, https://ganeshyoutell.netlify.app, https://ganeshealthcaretips.netlify.app, https://ganesh-weather-app.vercel.app)
+- 📄 Know about my experiences (https://ganesh4me.ccbp.tech, https://ganes4.ccbp.tech, https://ganeshyoutell.netlify.app, https://ganeshealthcaretips.netlify.app, https://ganesh-weather-app.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
